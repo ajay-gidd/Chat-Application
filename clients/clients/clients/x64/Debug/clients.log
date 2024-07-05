@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ASUS\source\repos\clients\clients\main.cpp(28,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  clients.vcxproj -> C:\Users\ASUS\source\repos\clients\clients\x64\Debug\clients.exe
